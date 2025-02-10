@@ -6,7 +6,7 @@
 
 .container{
     width: 100%;
-    background-color:white ;
+    background-color:rgb(170, 70, 70) ;
     height: 600px;
     
     padding: 0px;
@@ -14,7 +14,7 @@
     
 }
 .to_do_app{
-    width:100%;
+    width:80%;
     height: 670px;
     @media (height>=700px) {
         height: 750px;
@@ -54,7 +54,7 @@
     margin-top: 0;
 }
 .to_do_app h2{
-    color: #002765;
+    color: #0a172b;
     display: flex;
     align-items: center;
     padding: 20px 10px;
@@ -89,7 +89,7 @@
     border: none;
     outline:none;
     
-    background: #ff5945;
+    background: #542823;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
